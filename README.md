@@ -9,7 +9,7 @@ ML models runned on 6 synthetic cases with water saturation, porosity and electr
 |------------------------------------|--------|
 |KNeighborsRegressor                 | 0.0585 |
 |KNeighborsRegressor (fine-tuned)    | NA     |
-|RandomForestRegressor               | 0.0159 |
+|RandomForestRegressor               |**0.0159**|
 |RandomForestRegressor (fine-tuned)  | NA     |
 |CatBoost                            | NA     |
 |CatBoost (fine-tuned)               | NA     |
