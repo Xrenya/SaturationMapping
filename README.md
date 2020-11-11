@@ -19,7 +19,7 @@ ML models runned on 6 synthetic cases with water saturation, porosity and electr
 |LightGBM (fine-tuned)               | NA     |
 
 ### Pipeline:
- Data -> Preprocessing: Standart Scaler (StandardScaler standardizes a feature by subtracting the mean and then scaling to unit variance. Unit variance means dividing all the values by the standard deviation) -> Model
+ Data &rarr; Preprocessing: Standart Scaler (StandardScaler standardizes a feature by subtracting the mean and then scaling to unit variance. Unit variance means dividing all the values by the standard deviation) &rarr; Model
 
 ### Pytorh3D
 |Model                               | MSE    |
