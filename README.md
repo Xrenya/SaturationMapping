@@ -5,15 +5,18 @@ ML models runned on 6 synthetic cases with water saturation, porosity and electr
 
 ## Experiment results
 ### Baseline:
-|Model                               | MSE   |
-|------------------------------------|-------|
-|KNeighborsRegressor                 |0.0585 |
-|RandomForestRegressor               |0.0159 |
-|KNeighborsRegressor (fine-tuned)    |       |
-|RandomForestRegressor (fine-tuned)  |       |
-|CatBoost                            |       |
-|XGBoost                             |       |
-|LightGBM                            |       |
+|Model                               | MSE    |
+|------------------------------------|--------|
+|KNeighborsRegressor                 | 0.0585 |
+|KNeighborsRegressor (fine-tuned)    |        |
+|RandomForestRegressor               | 0.0159 |
+|RandomForestRegressor (fine-tuned)  |        |
+|CatBoost                            |        |
+|CatBoost (fine-tuned)               |        |
+|XGBoost                             |        |
+|XGBoost (fine-tuned)                |        |
+|LightGBM                            |        |
+|LightGBM (fine-tuned)               |        |
 
 ### Conslusion:
 
