@@ -20,11 +20,11 @@ Output: Water saturation map – export into text format.
 |KNeighborsRegressor (fine-tuned)    | NA     |
 |RandomForestRegressor               |**0.0159**|
 |RandomForestRegressor (fine-tuned)  | NA     |
-|CatBoost                            | NA     |
+|CatBoost                            | 0.0682 |
 |CatBoost (fine-tuned)               | NA     |
-|XGBoost                             | NA     |
+|XGBoost                             | 0.0214 |
 |XGBoost (fine-tuned)                | NA     |
-|LightGBM                            | NA     |
+|LightGBM                            | 0.0581 |
 |LightGBM (fine-tuned)               | NA     |
 
 ### Pipeline:
