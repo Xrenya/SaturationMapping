@@ -2,6 +2,15 @@
 ML models to determine from local well data and deep measurements (3D measurments) the saturation pattern in the inter-well area.
 ML models runned on 6 synthetic cases with water saturation, porosity and electrical resistivity data. 
 
+# Problem
+ - Understanding reservoir fluid flow is a major challenge for oil and gas companies to optimize sweep efficiency and improve recovery.  
+ - Understanding of the saturation pattern is crucial to optimizing water injection, as well as the drilling of new wells. 
+ - The challenge is to determine from local well data and deep measurements the saturation pattern in the interwell area. 
+ 
+# Solution
+Solution is implemented in Python.
+Input: Resistivity, Porosity.
+Output: Water saturation map – export into text format.
 
 ## Experiment results
 ### Baseline 1D:
