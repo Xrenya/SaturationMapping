@@ -3,14 +3,17 @@ ML models to determine from local well data and deep measurements (3D measurment
 ML models runned on 6 synthetic cases with water saturation, porosity and electrical resistivity data. 
 
 
-## Current results
+## Experiment results
 ### Baseline:
-|Model                   | MSE   |
-|------------------------|-------|
-|KNeighborsRegressor     |0.0585 |
-|RandomForestRegressor   |0.0159 |
-|CatBoost                |       |
-|XGBoost                 |       |
+|Model                               | MSE   |
+|------------------------------------|-------|
+|KNeighborsRegressor                 |0.0585 |
+|RandomForestRegressor               |0.0159 |
+|KNeighborsRegressor (fine-tuned)    |       |
+|RandomForestRegressor (fine-tuned)  |       |
+|CatBoost                            |       |
+|XGBoost                             |       |
+|LightGBM                            |       |
 
 ### Conslusion:
 
