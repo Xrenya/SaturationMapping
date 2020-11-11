@@ -8,9 +8,9 @@ ML models runned on 6 synthetic cases with water saturation, porosity and electr
  - The challenge is to determine from local well data and deep measurements the saturation pattern in the interwell area. 
  
 # Solution
-Solution is implemented in Python.
-Input: Resistivity, Porosity.
-Output: Water saturation map – export into text format.
+Solution is implemented in Python. /n
+Input: Resistivity, Porosity. /n
+Output: Water saturation map – export into text format. /n
 
 ## Experiment results
 ### Baseline 1D:
