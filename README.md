@@ -1,6 +1,6 @@
 # Saturation Mapping
 ML models to determine from local well data and deep measurements (3D measurments) the saturation pattern in the inter-well area.
-ML models runned on syntetic 
+ML models runned on 6 synthetic cases with water saturation, porosity and electrical resistivity data. 
 
 
 ## Current results
