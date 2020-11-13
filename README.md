@@ -13,7 +13,7 @@ Solution is implemented in Python 3.8.
 **Output**: Water saturation map – export into text format.  
 
 ## Experiment results
-### Baseline 1D:
+### [Baseline 1D](https://github.com/Xrenya/SaturationMapping/blob/main/Baseline_1D.ipynb):
 |Model                               | MSE    |
 |------------------------------------|--------|
 |KNeighborsRegressor                 | 0.0585 |
