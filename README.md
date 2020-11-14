@@ -13,7 +13,7 @@ Solution is implemented in Python 3.8.
 **Output**: Water saturation map – export into text format.  
 
 ## Experiment results
-### [Baseline 1D](https://github.com/Xrenya/SaturationMapping/blob/main/Baseline_1D.ipynb):
+### [Baselines 1D](https://github.com/Xrenya/SaturationMapping/blob/main/Baseline_1D.ipynb):
 |Model                               | MSE    |
 |------------------------------------|--------|
 |KNeighborsRegressor                 | 0.0585 |
@@ -27,12 +27,12 @@ Solution is implemented in Python 3.8.
 |LightGBM                            | 0.0581 |
 |LightGBM (fine-tuned)               | NA     |
 
-### Baseline 2D
+### Baselines 2D
 |Model                               | MSE    |
 |------------------------------------|--------|
 |Model_1                             | NA     |
 
-### Baseline 3D
+### Baselines 3D
 |Model                               | MSE    |
 |------------------------------------|--------|
 |Model_1                             | NA     |
