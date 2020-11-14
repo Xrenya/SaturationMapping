@@ -11,5 +11,8 @@ current file run command: ```python3 model_1.py --por por.txt --res res.txt --sa
 ```python3 model_1.py --test --por por.txt --res res.txt --load_model <model file path>```  
 current file run command: ```python3 model_1.py --test--por por.txt --res res.txt```
 
+#### Model accuracy:
+**MSE**: 0.0157
+
 #### Output:
 Output saves in ```saturation.csv```
