@@ -3,10 +3,13 @@
 
 ## Random Forest Regressor Training&Inference 
 
-Model training and validation:  
+#### Model training and validation:  
 ```python3 model_1.py --por <porosity file path> --res <resistivity file path> --sat <saturation file path>```  
 current file run command: ```python3 model_1.py --por por.txt --res res.txt --sat sat.txt```
 
-Model inference:  
+#### Model inference:  
 ```python3 model_1.py --test --por por.txt --res res.txt --load_model <model file path>```  
 current file run command: ```python3 model_1.py --test--por por.txt --res res.txt```
+
+#### Output:
+Output saves in ```saturation.csv```
