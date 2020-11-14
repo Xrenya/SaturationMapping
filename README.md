@@ -27,15 +27,15 @@ Solution is implemented in Python 3.8.
 |LightGBM                            | 0.0581 |
 |LightGBM (fine-tuned)               | NA     |
 
-### [Baseline 2D]
+### Baseline 2D
 |Model                               | MSE    |
 |------------------------------------|--------|
-|                                    | NA     |
+|Model_1                             | NA     |
 
-### [Baseline 3D]
+### Baseline 3D
 |Model                               | MSE    |
 |------------------------------------|--------|
-|                                    | NA     |
+|Model_1                             | NA     |
 
 ### Pipeline:
  Data &rarr; Preprocessing: Standart Scaler* &rarr; Model
