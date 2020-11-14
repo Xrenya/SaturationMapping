@@ -1,4 +1,6 @@
 ## Random Forest Regressor
 
-Model training and validation: ``` python3 model_1.py --por <porosity file path> --res <resistivity file path> --sat <saturation file path>```   
-Model inference: ``` python3 model_1.py --test --por <porosity file path> --res <resistivity file path> --load_model <model file path>``` 
+Model training and validation: ```python3 model_1.py --por <porosity file path> --res <resistivity file path> --sat <saturation file path>```
+(current file run command: ```python3 model_1.py --por por.txt --res res.txt --sat sat.txt```)
+Model inference: ```python3 model_1.py --test --por por.txt --res res.txt --load_model <model file path>``` 
+(current file run command: ```python3 model_1.py --test--por por.txt --res res.txt```)
