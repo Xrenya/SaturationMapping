@@ -1,4 +1,7 @@
-## Random Forest Regressor
+## Dependancy
+```pip3 install -r requirements.txt```
+
+## Random Forest Regressor Training&Inference 
 
 Model training and validation:  
 ```python3 model_1.py --por <porosity file path> --res <resistivity file path> --sat <saturation file path>```  
