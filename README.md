@@ -18,7 +18,7 @@ Solution is implemented in Python 3.8.
 |------------------------------------|--------|
 |KNeighborsRegressor                 | 0.0585 |
 |KNeighborsRegressor (fine-tuned)    | NA     |
-|RandomForestRegressor               |**0.0157**|
+|[RandomForestRegressor](https://github.com/Xrenya/SaturationMapping/tree/main/RandomForestRegressor)               |**0.0157**|
 |RandomForestRegressor (fine-tuned)  | NA     |
 |CatBoost                            | 0.0682 |
 |CatBoost (fine-tuned)               | NA     |
